@@ -21,7 +21,7 @@ const app = express();
 
 
 app.use(cors({
-  origin: ["http://localhost:5173", "https://your-frontend.vercel.app"],
+  origin: ["http://localhost:5173", "https://sri-varthan-portfolio-1.onrender.com/"],
   credentials: true,
 }));
 
