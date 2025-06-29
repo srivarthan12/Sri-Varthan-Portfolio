@@ -30,7 +30,11 @@ export default function Hero() {
           I’m an aspiring full-stack web developer.I want to explore the world around me and get new experience
         </p>
 
-        <a href="/resume.pdf" download='Sri Varthan[1].pdf'>
+        <a href="/resume.pdf"
+  download
+  target="_blank"
+  rel="noopener noreferrer"
+  >
   <button className="mt-4 px-6 py-2 bg-indigo-600 text-white font-semibold rounded-xl shadow-lg hover:bg-indigo-700 transition">
     Download My Resume
   </button>
