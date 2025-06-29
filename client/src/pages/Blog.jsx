@@ -9,7 +9,7 @@ export default function Blog() {
   useEffect(() => {
     const fetchBlogs = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/blogs");
+        const res = await axios.get("https://sri-varthan-portfolio.onrender.com/api/blogs");
         setPosts(res.data);
       } catch (err) {
         console.error("Error fetching blogs:", err);
