@@ -1,4 +1,4 @@
-import yourImage from '../assets/Screenshot_20250704_123825.jpg'; // Replace with actual image
+import yourImage from '../assets/Screenshot_20250704_123834.jpg' // Replace with actual image
 import { TypeAnimation } from 'react-type-animation';
 
 export default function Hero() {
