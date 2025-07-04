@@ -47,7 +47,7 @@ export default function Hero() {
         <img
           src={yourImage}
           alt="Profile"
-          className="w-[280px] md:w-[400px] mb-20 ml-20 rounded-xl "
+          className="w-[280px] md:w-[400px] mb-20 ml-0 rounded-xl "
         />
       </div>
     </section>
