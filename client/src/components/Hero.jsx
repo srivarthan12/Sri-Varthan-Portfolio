@@ -1,4 +1,4 @@
-import yourImage from '../assets/sri.png'; // Replace with actual image
+import yourImage from '../assets/IMG_0393.HEIC'; // Replace with actual image
 import { TypeAnimation } from 'react-type-animation';
 
 export default function Hero() {
