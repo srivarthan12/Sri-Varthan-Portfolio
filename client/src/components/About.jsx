@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import { ChevronLeft, ChevronRight, Import } from "lucide-react";
 import ReactLogo from "../assets/react.svg";
-import techyguy from "../assets/techy.png"
+import techyguy from "../assets/Neon Halo Portrait.png"
 import mern from "../assets/MERN.png"
 import exp from "../assets/Neon Halo Silhouette in Dark__endoftext__.png"
 
