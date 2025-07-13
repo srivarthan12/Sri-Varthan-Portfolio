@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight, Import } from "lucide-react";
 import ReactLogo from "../assets/react.svg";
 import techyguy from "../assets/techy.png"
 import mern from "../assets/MERN.png"
-import exp from "../assets/EXPLORE.png"
+import exp from "../assets/Neon Halo Silhouette in Dark__endoftext__.png.png"
 
 import "swiper/css";
 import "swiper/css/navigation";
