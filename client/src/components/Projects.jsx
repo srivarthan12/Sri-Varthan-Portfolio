@@ -23,7 +23,7 @@ export default function Projects() {
   useEffect(() => {
     const fetchProjects = async () => {
       try {
-        const res = await axios.get("https://sri-varthan-portfolio.onrender.com//api/projects");
+        const res = await axios.get("https://sri-varthan-portfolio.onrender.com/api/projects");
         setProjects(res.data);
       } catch (err) {
         console.error("Error fetching projects:", err);
