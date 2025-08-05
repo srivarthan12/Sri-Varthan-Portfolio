@@ -30,7 +30,7 @@ export default function Skills() {
   useEffect(() => {
     const fetchSkills = async () => {
       try {
-        const res = await axios.get("https://sri-varthan-portfolio-1.onrender.com//api/skills");
+        const res = await axios.get("https://sri-varthan-portfolio.onrender.com//api/skills");
         setSkills(res.data);
       } catch (err) {
         console.error("Error fetching skills:", err);
