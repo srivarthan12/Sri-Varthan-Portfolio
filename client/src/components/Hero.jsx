@@ -33,7 +33,7 @@ export default function Hero() {
           around me and gain new experiences.
         </p>
 
-        <a href="/resume.pdf" download="Sri Varthan Resume.pdf">
+        <a href="/Sri Varthan.pdf" download="Sri Varthan Resume.pdf">
           <button className="mt-6 px-6 py-3 bg-indigo-600 text-white font-semibold rounded-xl shadow-lg hover:bg-indigo-700 transition-all duration-300">
             Download My Resume
           </button>
